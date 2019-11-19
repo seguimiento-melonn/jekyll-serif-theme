@@ -3,9 +3,6 @@ title: Automatizacion de procesos de negocio
 image: "/services/noun_591323.png"
 
 ---
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
 
 ## Ne verba patulosque numen vix libet
 
@@ -31,12 +28,12 @@ Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
 et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
 licet! Inserui quamvis Clymeni.
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+* Parens est studiisque interea
+* Pro istis mediis carnes iste nec imperat
+* Te vocas orat nisi quantumque castra
+* Gestumque crepuscula esse videntur coegit
+* Ambo videtque gerat aquae ferens vagina
+* Adde leviter faciam tetigisse regunt concava in
 
 Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
 incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
